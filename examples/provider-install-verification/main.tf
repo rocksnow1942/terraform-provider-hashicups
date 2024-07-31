@@ -8,7 +8,7 @@ terraform {
 
 provider "hashicups" {
 
-} 
+}
 
 data "hashicups_coffees" "example" {
 
